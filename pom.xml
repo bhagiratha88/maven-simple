@@ -53,7 +53,7 @@
                         <id>attach-javadocs</id>
                         <goals>
                             <goal>jar</goal>
-                        </goals>
+                        </goals>clean install</goal>
                     </execution>
                 </executions>
       </plugin>
